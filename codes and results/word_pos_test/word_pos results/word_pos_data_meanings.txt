@@ -1,0 +1,10 @@
+
+#DT: determiner (the, a…)
+#IN: preposition (to, from, …)
+#JJ: adjective (big, smart…)
+#NN: noun (car, school…)
+#NNP: proper noun (Montreal, Jill…)
+#PRP: personal pronoun (she, I…)
+#RB: adverb (freely, calmly…)
+#VBD, VBG, VBN, VBZ: verbs (dancing, said, been, is…)
+#WP: wh-pronoun (who, what…)
