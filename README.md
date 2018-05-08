@@ -5,6 +5,6 @@ It aims to analyze The Utopia of Thomas More using Nature Language Processing (N
 ## References (Not academic)
 
 * [Nlp Techniques](http://vencergt.com/wp-content/uploads/2010/08/10_of_the_Coolest_Most_Powerful_Useful_NLP_Techniques_Ive_Ever_Learned.pdf)
-* [Nature Language Toolkit] (https://www.nltk.org/)
-* [NLP Tutorials That I utilized] (https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
-* [NLP WorkBook] (http://redwheelweiser.com/downloads/nlpworkbook.pdf)
+* [Nature Language Toolkit](https://www.nltk.org/)
+* [NLP Tutorials That I utilized](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
+* [NLP WorkBook](http://redwheelweiser.com/downloads/nlpworkbook.pdf)
